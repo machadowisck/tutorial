@@ -4,7 +4,7 @@ Você está prestes a escrever sua primeira linha de código, então precisamos 
 
 Existem muitos editores diferentes e em grande parte se resume a preferência pessoal. A maioria das pessoas que programam em Python usa as complexas, mas extremamente poderosas IDEs (Integrated Development Environments, ou em português, Ambiente de desenvolvimento Integrado), tais como PyCharm.
 
-Para o tutorial, usaremos o editor do Codeanywhere. Para isso, basta criar um novo arquivo, clicando com o botão direito no container e escolhendo a opção “Create File”:
+Para o tutorial, seguiremos usando os recursos do Codeanywhere. Para isso, basta criar um novo arquivo, clicando com o botão direito no container e escolhendo a opção “Create File”:
 
 ![Criando novo arquivo](../images/editor_de_codigo/novo_arquivo.png)
 
