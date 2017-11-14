@@ -49,7 +49,7 @@ False
 True
 ```
 
-Você pode dar ao Python quantos números para comparar quanto você quiser, e ele vai te dar uma resposta! Espertinho, certo?
+Você pode dar ao Python tantos pares de números para comparar quantos você quiser, e ele vai te dar uma resposta! Espertinho, certo?
 
 - `and` - se você usar o operador and, ambas as comparações terão que ser verdadeiras para que todo o comando seja verdadeiro
 - `or` - se você usar o operador or, apenas uma das comparações precisa ser verdadeira para que o comando todo seja verdadeiro
